@@ -1,0 +1,51 @@
+order_id,date,time_of_day,store,item_name,quantity,price,is_member,member_id
+1,2025-11-01,morning,Sunnyvale,Latte,3,4.5,yes,M001
+2,2025-11-01,morning,Mountainview,Americano,2,3.75,yes,M002
+3,2025-11-01,morning,Palo Alto,Cappuccino,2,5.25,yes,M003
+4,2025-11-02,morning,Sunnyvale,Latte,2,4.5,yes,M001
+5,2025-11-02,morning,Mountainview,Flat White,2,4.75,yes,M004
+6,2025-11-02,morning,Palo Alto,Chai Latte,3,4.95,yes,M005
+7,2025-11-03,morning,Sunnyvale,Matcha Latte,2,5.25,yes,M006
+8,2025-11-03,morning,Mountainview,Latte,3,4.5,yes,M002
+9,2025-11-03,morning,Palo Alto,Croissant,4,3.25,yes,M007
+10,2025-11-04,morning,Sunnyvale,Latte,2,4.5,yes,M001
+11,2025-11-04,morning,Mountainview,Espresso,3,3.0,yes,M008
+12,2025-11-04,morning,Palo Alto,Blueberry Muffin,3,2.75,yes,M005
+13,2025-11-05,morning,Sunnyvale,Cappuccino,2,5.25,yes,M003
+14,2025-11-05,morning,Mountainview,Latte,3,4.5,yes,M002
+15,2025-11-05,morning,Palo Alto,Coffee Beans 250g,1,12.0,yes,M009
+16,2025-11-06,morning,Sunnyvale,Latte,3,4.5,yes,M001
+17,2025-11-06,morning,Mountainview,Americano,2,3.75,yes,M004
+18,2025-11-06,morning,Palo Alto,Latte,2,4.5,yes,M006
+19,2025-11-07,morning,Sunnyvale,Cheesecake,2,6.5,yes,M007
+20,2025-11-07,morning,Mountainview,Latte,2,4.5,yes,M002
+21,2025-11-07,morning,Palo Alto,Chai Latte,2,4.95,yes,M005
+22,2025-11-08,morning,Sunnyvale,Latte,3,4.5,yes,M001
+23,2025-11-08,morning,Mountainview,Matcha Latte,2,5.25,yes,M008
+24,2025-11-08,morning,Palo Alto,Croissant,3,3.25,yes,M003
+25,2025-11-09,morning,Sunnyvale,Americano,2,3.75,yes,M004
+26,2025-11-09,morning,Mountainview,Latte,3,4.5,yes,M006
+27,2025-11-09,morning,Palo Alto,Flat White,2,4.75,yes,M009
+28,2025-11-10,morning,Sunnyvale,Latte,2,4.5,yes,M001
+29,2025-11-10,morning,Mountainview,Cheesecake,2,6.5,yes,M007
+30,2025-11-10,morning,Palo Alto,Espresso,3,3.0,yes,M002
+31,2025-11-11,afternoon,Sunnyvale,Latte,1,4.5,no,
+32,2025-11-11,afternoon,Mountainview,Cheesecake,1,6.5,no,
+33,2025-11-11,afternoon,Palo Alto,Chai Latte,1,4.95,no,
+34,2025-11-12,afternoon,Sunnyvale,Croissant,2,3.25,no,
+35,2025-11-12,afternoon,Mountainview,Flat White,1,4.75,no,
+36,2025-11-12,afternoon,Palo Alto,Americano,1,3.75,no,
+37,2025-11-13,afternoon,Sunnyvale,Blueberry Muffin,2,2.75,no,
+38,2025-11-13,afternoon,Mountainview,Latte,1,4.5,no,
+39,2025-11-13,afternoon,Palo Alto,Matcha Latte,1,5.25,no,
+40,2025-11-14,afternoon,Sunnyvale,Cheesecake,1,6.5,no,
+41,2025-11-20,night,Sunnyvale,Latte,1,4.5,no,
+42,2025-11-20,night,Mountainview,Espresso,2,3.0,no,
+43,2025-11-20,night,Palo Alto,Cheesecake,1,6.5,no,
+44,2025-11-21,night,Sunnyvale,Matcha Latte,1,5.25,no,
+45,2025-11-21,night,Mountainview,Americano,1,3.75,no,
+46,2025-11-21,night,Palo Alto,Cappuccino,1,5.25,no,
+47,2025-11-22,night,Sunnyvale,Latte,1,4.5,no,
+48,2025-11-22,night,Mountainview,Blueberry Muffin,2,2.75,no,
+49,2025-11-22,night,Palo Alto,Cookie,2,2.5,no,
+50,2025-11-23,night,Sunnyvale,Latte,1,4.5,no,
